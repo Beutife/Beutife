@@ -18,7 +18,7 @@
 🚀 Currently building **Proof of Presence** (on-chain attendance dApp) and **OpenEdStore** (decentralized education marketplace).  
 🎓 Deepening Ethereum protocol knowledge through **WiEP Cohort 2025**.  
 💬 Led 100+ women into Web3 through **Web3Ladies Osun**, introducing smart contract development via Remix IDE.  
-🏆 Hackathon highlights: **Filecoin** & **ETHGlobal Online Hacker** participant.  
+🏆 Hackathon highlights: **Base Batches 2.0** **Filecoin** & **ETHGlobal Online Hacker** participant.  
 📝 Technical Writer on [Medium](https://medium.com/@udebeulah).  
 ⚡ Fun fact: I enjoy turning complex scientific concepts into simple, functional code.
 
