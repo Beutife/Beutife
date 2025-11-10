@@ -44,7 +44,7 @@ Figma • Git • GitHub Actions • Remix IDE • Vercel
 
 #### 🧾 ETHGlobal Achievement  
 <div align="center">
-  <img src="https://github.com/Beutife/Beutife/Eth_Global_POAP" alt="ETHOnline Hacker POAP" width="200px"/>
+  <img src="https://github.com/Beutife/Beutife/blob/main/Eth_Global_POAP.jpgP" alt="ETHOnline Hacker POAP" width="200px"/>
 </div>
 
 Proud participant at **ETHOnline by ETHGlobal**, exploring the future of **decentralized learning and smart wallets**.  
