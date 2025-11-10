@@ -49,18 +49,6 @@ Figma • Git • GitHub Actions • Remix IDE • Vercel
 
 Proud participant at **ETHOnline by ETHGlobal**, exploring the future of **decentralized learning and smart wallets**.  
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Beutife&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Beutife&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beutife&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</div>
 
 ---
 
