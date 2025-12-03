@@ -98,7 +98,7 @@ Decentralized marketplace for tokenized courses with built-in creator royalties.
 
 **Use Case:** Empowers educators to monetize content without intermediaries
 
-[**Live Demo**](#) | [**Documentation**](#)
+[**Live Demo**](https://openedustore.netlify.app/) | 
 
 ---
 
