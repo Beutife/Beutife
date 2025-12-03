@@ -102,7 +102,7 @@ Decentralized marketplace for tokenized courses with built-in creator royalties.
 
 ---
 
-### ✅ [Proof of Presence](https://github.com/Beutife/proof-of-presence) - Blockchain Attendance
+### ✅ [QuantumAI Vault](https://quantam-vault.vercel.app/) - Decentralized AI Dataset Marketplace
 **React • TypeScript • Polkadot.js • IPFS • AI Models**
 
 AI-validated decentralized storage and marketplace where users upload datasets, get them quality-filtered, and sell them securely.
