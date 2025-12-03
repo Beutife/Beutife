@@ -103,20 +103,25 @@ Decentralized marketplace for tokenized courses with built-in creator royalties.
 ---
 
 ### ✅ [Proof of Presence](https://github.com/Beutife/proof-of-presence) - Blockchain Attendance
-**React • TypeScript • Ethers.js • Hardhat • QR Codes**
+**React • TypeScript • Polkadot.js • IPFS • AI Models**
 
-QR code-based attendance verification system with immutable blockchain proof.
+AI-validated decentralized storage and marketplace where users upload datasets, get them quality-filtered, and sell them securely.
 
 **Key Features:**
-- 📱 QR code generation and scanning
-- 📊 Real-time analytics dashboard (Chart.js)
-- ⚡ 35% gas optimization
-- 🧪 95% test coverage
-- 📈 Processed 500+ check-ins in testing
 
-**Use Case:** Tamper-proof attendance records for institutions and events
+🤖 AI dataset validation to remove vague/low-value files
 
-[**Live Demo**](#) | [**Architecture Doc**](#)
+🗂️ Decentralized storage (IPFS) with on-chain hashes
+
+🏷️ Auto metadata + quality scoring
+
+🪙 Tokenized listings on the marketplace
+
+🔐 Encrypted access for buyers
+
+**Use Case:** Reliable, high-quality datasets for researchers, developers, and AI builders.
+
+[**Live Demo**](https://quantam-vault.vercel.app/) 
 
 ---
 
