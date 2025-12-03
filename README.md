@@ -62,7 +62,7 @@ Privacy-focused smart wallet implementing account abstraction with stealth addre
 
 **Technical Highlights:** Wagmi hooks, Safe{Core} Protocol Kit, transaction bundling, custom stealth address derivation
 
-[**Live Demo**](#) | [**Documentation**](#)
+[**Live Demo**](https://ghost-wallet-seven.vercel.app/) | [**Documentation**](https://github.com/Beutife/Ghost-Wallet)
 
 ---
 
